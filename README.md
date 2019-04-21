@@ -1,6 +1,7 @@
-# manage
+# axios拦截器使用
+# Echarts图表使用
 
-> manage
+> new project
 
 ## Build Setup
 
