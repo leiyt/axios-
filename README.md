@@ -1,5 +1,7 @@
-# axios拦截器使用
-# Echarts图表使用
+# 基于vue2.x & vue-cli 的前端项目
+
+## axios拦截器使用
+## Echarts图表使用
 
 > new project
 
